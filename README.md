@@ -19,6 +19,6 @@
 - JavaScript (Vanilla)
 
 👨‍💻 Author
-Abhi Yadav
+Abhishek H. Yadav
 LinkedIn (https://www.linkedin.com/in/abhishek-yadav-163019288)
 GitHub (https://github.com/AbhiTHEcodeMaster)
